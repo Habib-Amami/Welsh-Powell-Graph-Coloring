@@ -34,8 +34,8 @@ To run the script, you need Python 3.x and the required libraries. Follow these 
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Habib-Amami/Welsh-Powell-Graph-Coloring.git
+   cd Welsh-Powell-Graph-Coloring
    ```
 
 2. **Install Dependencies**: Install the required Python libraries using pip:
@@ -57,8 +57,7 @@ The script `graph_coloring.py` defines the Welsh-Powell algorithm, a visualizati
 To run the script:
 
 1. Ensure the dependencies are installed.
-2. Save the script as `graph_coloring.py`.
-3. Run the script:
+2. Run the script:
 
     ```bash
    python graph_coloring.py
